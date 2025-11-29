@@ -1,3 +1,5 @@
+# NAME:Kishore S
+# REG NO:212224080026
 # Load-test-on-D.C-Shunt-Generator
 
 Aim:
