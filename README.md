@@ -35,11 +35,13 @@ by closing the DPST switch 2.
 initial position
 
 Tabular Column:
-<img width="509" height="371" alt="image" src="https://github.com/user-attachments/assets/1641b4c7-3683-4920-b857-5ef394c51cff" />
+<img width="1904" height="931" alt="record2" src="https://github.com/user-attachments/assets/094d1bda-f534-4d30-81b2-02deb37f0c06" />
+
 
 Model graph:
 <img width="399" height="182" alt="image" src="https://github.com/user-attachments/assets/05d45b14-c35d-4f16-a08a-58b263da9b84" />
 
-Result:<img width="1904" height="931" alt="record2" src="https://github.com/user-attachments/assets/094d1bda-f534-4d30-81b2-02deb37f0c06" />
+Result:
+Thus the Load test is conducted successfully.
 
 
